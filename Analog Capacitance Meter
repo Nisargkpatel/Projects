@@ -5,7 +5,7 @@ For hardware-based implementations, the following components are required:
 - IC 4060
 - IC 4013
 - IC LM358
-- IC 7805 (With heatsink)
+- IC 7805 (With heatsink) 
 
 ### Display & Indicators:
 - 7-Segment Display (7 pcs)
