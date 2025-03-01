@@ -49,5 +49,5 @@ For hardware-based implementations, the following components are required:
 
 
 ## CIRCUIT IMPLEMENTATION:
-![Alt Text]()
+![Alt Text](https://github.com/Nisargkpatel/Projects/blob/main/CAPACITANCE_METER.jpg?raw=true)
 
