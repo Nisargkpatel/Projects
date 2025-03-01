@@ -1,3 +1,5 @@
+# ANALOG CAPACITANCE METER
+
 For hardware-based implementations, the following components are required:
 
 ### Integrated Circuits (ICs):
@@ -44,3 +46,7 @@ For hardware-based implementations, the following components are required:
 - IC Socket 14 pins
 - IC Socket 16 pins (8 pcs)
 - ZIF Socket 14 pins
+
+
+## CIRCUIT IMPLEMENTATION:
+
