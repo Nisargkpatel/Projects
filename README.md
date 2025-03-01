@@ -15,7 +15,7 @@ A **smart water conservation system** that allows remote monitoring and control 
 - **Daily Water Usage Reports** for efficient resource management
 - **ESP32-based Implementation**
 
-## 3. Analog Capacitance Meter
+## 3. [Analog Capacitance Meter](https://github.com/Nisargkpatel/Projects/blob/main/Analog%20Capacitance%20Meter.md)
 A precise capacitance measurement device based on voltage vs. time characteristics. Key features:
 - **Measures up to 9.99mF** with high accuracy
 - **Synchronous Counter-Based Measurement**
