@@ -22,7 +22,7 @@ A precise capacitance measurement device based on voltage vs. time characteristi
 - **Comparator Circuit** to determine charging time
 - **Displays Capacitance in Real-Time**
 
-## 4. EV Battery Blast Protection System
+## 4. [EV Battery Blast Protection System](https://github.com/Nisargkpatel/Projects/blob/main/EV%20Battery%20Blast%Protection%20System.md)
 A safety-focused monitoring and control system designed for electric vehicle (EV) batteries. Using an **ESP32**, it provides real-time battery status updates, remote charging control, and protection against overheating, overcharging, and short circuits. The system integrates a **Dallas DS18B20** temperature sensor for precise thermal monitoring and a **web-based interface** for remote access.
 Devfolio project link : (https://devfolio.co/projects/ev-battery-blast-protection-system-5348)
 ### Features
