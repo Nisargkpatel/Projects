@@ -24,7 +24,7 @@ A precise capacitance measurement device based on voltage vs. time characteristi
 
 ## 4. EV Battery Blast Protection System
 A safety-focused monitoring and control system designed for electric vehicle (EV) batteries. Using an **ESP32**, it provides real-time battery status updates, remote charging control, and protection against overheating, overcharging, and short circuits. The system integrates a **Dallas DS18B20** temperature sensor for precise thermal monitoring and a **web-based interface** for remote access.
-
+Devfolio project link : (https://devfolio.co/projects/ev-battery-blast-protection-system-5348)
 ### Features
 - **Real-time Battery Monitoring**: Monitors voltage, current, and temperature.
 - **Remote Charging Control**: Enables or disables charging via a web interface.
