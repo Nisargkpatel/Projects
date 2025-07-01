@@ -2,7 +2,7 @@
 
 This repository contains multiple innovative projects developed using microcontrollers and IoT-based technologies.
 
-## 1. Spider Scout
+## 1. Spider Scout(https://github.com/Nisargkpatel/Projects/blob/main/SPIDER%20SCOUT.md)
 A robotic system designed for autonomous and remote-controlled exploration. It features:
 - **Obstacle Avoidance** by controlling the servo angle making the leg lift vertically.
 - **Wireless Control** via Bluetooth
